@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import random
 import tweepy
 
+#add keys from https://developer.twitter.com/ 
 consumer_key = ''
 consumer_token = ''
 access_token = ''
